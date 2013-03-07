@@ -1,3 +1,6 @@
+#Copyright (c) 2013, John Stout <jstout.physics@gmail.com>
+#http://en.wikipedia.org/wiki/ISC_license
+
 LoadCPlugin("C:/mf/NGcode/TASEncodingPackage/programs/freesub.dll")
 
 function ng_sub(
